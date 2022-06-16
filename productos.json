@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "foto": "./img/tv4.webp",
+        "nombre": "75' Neo QLED 8K Smart TV QN800A",
+        "precio": 999999
+    },
+    {
+        "id": 2,
+        "foto": "./img/tv3.webp",
+        "nombre": "65' UHD 4K Smart TV AU7000",
+        "precio": 169999
+    },
+    {
+        "id": 3,
+        "foto": "./img/tv2.webp",
+        "nombre": "50' UHD 4K Smart TV AU7000",
+        "precio": 99999
+    },
+    {
+        "id": 4,
+        "foto": "./img/tv1.webp",
+        "nombre": "43' UHD 4K Smart TV AU7000",
+        "precio": 79999
+    },
+    {
+        "id": 5,
+        "foto": "./img/tv.webp",
+        "nombre": "43' Full HD Smart TV T5300",
+        "precio": 69999
+    },
+    {
+        "id": 6,
+        "foto": "./img/s22.webp",
+        "nombre": "Celular Galaxy S22 ULTRA Phantom Black 512 gb",
+        "precio": 279999
+    },
+    {
+        "id": 7,
+        "foto": "./img/z3flip3.webp",
+        "nombre": "Galaxy Z Flip3 5G Negro",
+        "precio": 118999
+    },
+    {
+        "id": 8,
+        "foto": "./img/monitor27.webp",
+        "nombre": "Monitor Smart 27' con Conexión Móvil",
+        "precio": 54999
+    },
+    {
+        "id": 9,
+        "foto": "./img/144.png",
+        "nombre": "Monitor Gaming 24' Curvo Full HD",
+        "precio": 54999
+    },
+    {
+        "id": 10,
+        "foto": "./img/aire1.webp",
+        "nombre": "Split Frio/Calor 3260W Inverter con ahorro energetico AR12ASH",
+        "precio": 134999
+    }
+]
